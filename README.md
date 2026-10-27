@@ -22,7 +22,6 @@ Senior developer at the [Government Digital Service](https://www.gov.uk/governme
 <!-- recent:start -->
 - **[openxe](https://github.com/sammyibeh/openxe)** · pushed 2026-10-27 · latest release [v0.1.3](https://github.com/sammyibeh/openxe/releases/tag/v0.1.3) (2026-07-20)
 - **[sammyibeh.dev](https://github.com/sammyibeh/sammyibeh.dev)** · Sammy Ibeh's personal site, dressed as a terminal session. Astro + Netlify. · pushed 2026-10-27
-- **[coming-soon](https://github.com/sammyibeh/coming-soon)** · Coming soon · pushed 2020-12-07
 <!-- recent:end -->
 
 ## Before

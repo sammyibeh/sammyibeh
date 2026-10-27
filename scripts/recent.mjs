@@ -18,8 +18,10 @@ async function api(path) {
   return res.json()
 }
 
+const since = new Date()
+since.setFullYear(since.getFullYear() - 1) // only repos pushed in the last 12 months
 const repos = (await api(`/users/${USER}/repos?type=owner&sort=pushed&per_page=30`))
-  .filter((r) => !r.fork && !r.private && !r.archived && !SKIP.has(r.name))
+  .filter((r) => !r.fork && !r.private && !r.archived && !SKIP.has(r.name) && new Date(r.pushed_at) >= since)
   .slice(0, COUNT)
 
 const lines = await Promise.all(
