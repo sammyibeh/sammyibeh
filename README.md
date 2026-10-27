@@ -1,82 +1,36 @@
-### :warning: **Outdated** - Needs an update, many things have changed
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
+  <img alt="A terminal window. sammy@ibeh:~$ whoami, then: Sammy Ibeh. I turn ideas into beautiful products. Senior Developer @ GDS, London, building Rownd." src="assets/whoami-dark.svg" width="860">
+</picture>
 
-### Hi there 👋
+Senior developer at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in London, building cross-government digital services, including GOV.UK One Login. Before that, a CTO: I built products and led the teams that shipped them.
 
-# Sammy Ibeh -- ✨
+## Now
 
-Hi, 👋  <br /> I’m Sam, a software developer (Python - mostly Fullstack) who believes in changing the world. I co-founded  [ITSYNC Synergy Limited](https://www.itsync.ng), a business management solution and software provider 🌍. I’m currently consulting with the [Zenith Bank Nigeria](https://www.zenithbank.com/), [SHELL Nigeria @ CoopEAST](https://www.coopeastngr.com/index.asp) and UN Women to bring more women into technology. 🚀
+- **GDS**: Senior Developer, Jan 2024 to present
+- **[Rownd](https://getrownd.com)**: save together, take your turn. Digital savings circles that help you build credit. Founder, in development.
+- **[OpenXE](https://github.com/sammyibeh/openxe)**: a lean, open-source macOS app that runs New World Scheduler, a Windows-only program, on a Mac. Unofficial and not affiliated with New World Scheduler.
+- **[sammyibeh.dev](https://sammyibeh.dev)**: my personal site, dressed as a terminal session. Astro and Netlify, [source here](https://github.com/sammyibeh/sammyibeh.dev).
 
-## 🔭 I’m currently working on ...
+## Before
 
-- Projects for [ITSYNC Synergy Limited](https://www.itsync.ng)
+| When | Where | Role |
+| --- | --- | --- |
+| 2021 to 2023 | Vidor and XOXI | Senior Software Engineer, CTO |
+| 2020 to 2021 | Farmsby | Lead, Software Engineer |
+| 2016 to 2021 | ITSync Synergy | Head, Information Technology |
+| 2015 to 2016 | Silicon South Technologies | Software Engineer |
 
-## 🔭 Skills and Languages ...
+The full `git log` is at [sammyibeh.dev/experience](https://sammyibeh.dev/experience/).
 
-- Python
-- TypeScript - NodeJS
-- GIT
-- CI and Automated testing
-- JavaScript
-- Web Languages - (HTML, CSS)
-- PHP - Not so much of this anymore
+## Off the clock
 
+- I know American Sign Language (ASL).
+- Learning Russian and German.
+- Happy to collaborate on fun projects, especially ones about inclusion for people with special needs, or the environment.
+- Sully, black British Shorthair, has admin privileges.
 
-## 🌱 I’m currently learning ...
+## Say hello
 
-- Product Management
-- Russian and German :)
-- Any other fun programming language
-
-
-## 👯 I’m looking to collaborate on ...
-- Fun projects
-- Projects related to inclusion for with people with special needs and/or the enviroment
-
-
-## 🤔 I’m looking for help with ...
-
-
-## 🌱 Projects: 
-
-
-- Contact me for more details - most projects cannot be shared publicly.
-
-- See portfolio on [ITSYNC Synergy Limited](https://www.itsync.ng)
-
-- Syle By Zenith - [Zenith Bank Nigeria](https://www.zenithbank.com/) - currently offline
-
-- [My Aspire Hub](https://myaspirehub.com/) - For Zenith Bank PLC 
-
-
-## 💬 Ask me about ...
-
-- Absolutely anything
-
-
-## 📫 How to reach me: ...
-- Twitter: https://twitter.com/sammy_iyke001
-- Personal Website: https://sammyibeh.com (in progress)🚜🔩⛏⚒
-
-- You play Call of Duty ?? add me: sammyiyke
-
-
-## ⚡ Fun fact: ...
-- I know American Sign Language (ASL)
-
-
-
-
-<!--
-**sammyiyke/sammyiyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[sammyibeh.dev/contact](https://sammyibeh.dev/contact/) · [hello@sammyibeh.com](mailto:hello@sammyibeh.com) · [LinkedIn](https://www.linkedin.com/in/ibehsamuel) · [Twitter](https://twitter.com/sammyiibeh)
